@@ -1,5 +1,13 @@
 # 2020 Capstone
 
+## Requirements
+
+An anaconda environment is required to use this repository.
+```
+$ conda create --name <your prefered name> --file requirements.txt
+```
+
+
 ## Papers I've looked at
 
 Evolving Neural Networks through Augmenting Topologies
