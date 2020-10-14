@@ -56,3 +56,21 @@ class ProcessFrame(gym.ObservationWrapper):
         x_t = resized_screen[18:102, :] if crop else resized_screen
         x_t = np.reshape(x_t, [84, 84, 1])
         return x_t.astype(np.uint8)
+
+
+class ExtraTimeLimit(gym.Wrapper):
+    def __init__(self, env, max_episode_steps=None):
+        gym.Wrapper.__init__(self, env)
+        self._max_episode_steps = max_episode_steps
+        self._elapsed_steps = 0
+
+    def step(self, action):
+        observation, reward, done, info = self.env.step(action)
+        self._elapsed_steps += 1
+        if self._elapsed_steps > self._max_episode_steps:
+            done = True
+        return observation, reward, done, info
+
+    def reset(self):
+        self._elapsed_steps = 0
+        return self.env.reset()
