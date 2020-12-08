@@ -15,12 +15,11 @@ if __name__ == "__main__":
     parser.add_argument('--name', type=str, help='Name of files', default='')
     parser.add_argument('--load_model', type=bool, help='Saved model to load', default=False)
     parser.add_argument('--exp', action='store_true',
-                        help='Run with --batch number of best runs selected from the trajectory.\n'+
+                        help='Select best 1/4 of runs from trajectory for batch.\n'+
                         'WARNING: Don\'t change this setting if loading an existing model!',
                         default=False
                         )
     parser.add_argument('--steps', type=int, help='Time steps in trajectory', default=2450)
-    parser.add_argument('--batch', type=int, help='Size of the batch, use with --exp', default=32)
     parser.add_argument('--trajectory', type=int, help='Size of trajectory', default=32)
     parser.add_argument('--minibatch', type=int, help='Size of minibatch', default=128)
     parser.add_argument('--epochs', type=int, help='Number if epochs', default=4)

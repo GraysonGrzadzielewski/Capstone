@@ -223,9 +223,9 @@ def main(args):
     env = wrappers.create_ppo_smb_nes_env(env)
 
     if not args.exp:
-        BATCH_SIZE = args.batch
+        BATCH_SIZE = args.trajectory
     else:
-        BATCH_SIZE = int(args.batch * 0.25)
+        BATCH_SIZE = int(args.trajectory * 0.25)
 
     MINIBATCH_SIZE = args.minibatch
     TRAJECTORY = args.trajectory
@@ -302,13 +302,12 @@ if __name__ == '__main__':
     )
     parser.add_argument('--name', type=str, help='Name of files')
     parser.add_argument('--load_model', type=bool, help='Saved model to load', default=False)
-    parser.add_argument('--exp', type=bool,
-                        help='Run training with experemental settings\n' +
-                             'WARNING: If loading model, do not change buffer type',
+    parser.add_argument('--exp', action='store_true',
+                        help='Select best 1/4 of runs from trajectory for batch.\n'+
+                        'WARNING: Don\'t change this setting if loading an existing model!',
                         default=False
                         )
     parser.add_argument('--epochs', type=int, help='Number if epochs', default=4)
-    parser.add_argument('--batch', type=int, help='Size of the batch', default=32)
     parser.add_argument('--minibatch', type=int, help='Size of minibatch', default=128)
     parser.add_argument('--trajectory', type=int, help='Size of trajectory', default=32)
     parser.add_argument('--steps', type=int, help='Time steps in trajectory', default=2450)
