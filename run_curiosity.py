@@ -1,3 +1,12 @@
+"""
+Title: Proximal Policy Optimization Algorithms
+Author: John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov\
+        {joschu, filip, prafulla, alec, oleg}@openai.com
+Date: 28 Aug 2017
+Code version: 12/8/2020
+Availability: https://github.com/openai/baselines/tree/master/baselines/ppo1
+"""
+
 from Capstone.utils import wrappers, Batch, common
 from Capstone.curiosity.models import cnn_models, ppo_model
 from Capstone.curiosity.models import predictor as p
@@ -112,14 +121,6 @@ def play(env, actor, observer, predictor):
 def get_batch_values(raw_batch):
     """
     Calculate the gae and advantages for each transition tuple
-
-    1. mask is 0 if state is terminal, otherwise 1
-    2. init GAE to 0, loop backward from last step
-    3. delta = r + gamma(V(s`)) * mask - V(s)
-    4. GAE = delta + gamma * lambda * gae
-    5. return(s,a) = gae + V(s)
-    6. reverse back to correct order
-
     :param raw_batch:
         raw list of tuples from playing an environment
     :return:

@@ -1,3 +1,10 @@
+"""
+Title: Large-Scale Study of Curiosity-Driven Learning
+Author: Yuri Burda, Harri Edwards, Deepak Pathak, Amos Storkey, Trevor Darrell and Alexei A. Efros
+Date: 2019
+Code version: 12/8/2020
+Availability: https://github.com/openai/large-scale-curiosity/blob/master/wrappers.py
+"""
 
 import itertools
 import math
