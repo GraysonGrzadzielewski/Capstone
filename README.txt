@@ -4,7 +4,25 @@ Brian Crutchley bcrutc01@rams.shepherd.edu
 Grayson Grzadzielewski ggrzado1@rams.shepherd.edu
 Installation
 
-To install the requirements for this repo, either use the requirements.txt file to download dependencies, or do
+Because PyTorch varies by OS, specific commands are required to download it for your system. If none of the commands below work, see
+
+For Windows OS
+
+$ pip install torch===1.7.0 torchvision===0.8.1 torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+For Linux OS
+
+$ pip install torch torchvision
+
+For Mac OS
+
+$ pip install torch torchvision torchaudio
+
+To install the requirements for this repo, either use the requirements.txt file by doing to download dependencies by doing
+
+$ pip install -r requirements.txt
+
+Or install with setup.py by cding into the repo’s directory and doing
 
 $ pip install .
 

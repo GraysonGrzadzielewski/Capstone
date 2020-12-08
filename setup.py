@@ -18,7 +18,7 @@ setup(
         "gym-retro>=0.8.0",
         "kiwisolver>=1.2.0",
         "matplotlib>=3.3.2",
-        "numpy>=1.19.2",
+        "numpy==1.19.2",
         "Pillow>=8.0.0",
         "protobuf>=3.13.0",
         "pyglet>=1.5.0",
@@ -26,8 +26,6 @@ setup(
         "python-dateutil>=2.8.1",
         "scipy>=1.5.2",
         "six>=1.15.0",
-        "torch>=1.6.0",
-        "torchvision>=0.7.0",
         "neat-python>=0.92"
     ]
 )
