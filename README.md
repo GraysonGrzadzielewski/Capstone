@@ -1,6 +1,7 @@
 # Using Neural Networks to Develop an AI Capable of Learning to Effectively Play Video Games
 
 Brian Crutchley                 bcrutc01@rams.shepherd.edu
+
 Grayson Grzadzielewski          ggrzado1@rams.shepherd.edu
 
 ## Installation
