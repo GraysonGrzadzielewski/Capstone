@@ -6,7 +6,7 @@ Grayson Grzadzielewski ggrzado1@rams.shepherd.edu
 Installation
 PyTorch
 
-Because PyTorch varies by OS, specific commands are required to download it for your system. If none of the commands below work, see
+Because PyTorch varies by OS, specific commands are required to download it for your system. If none of the commands below work, see https://pytorch.org/get-started/locally/
 
 For Windows OS
 
