@@ -5,7 +5,7 @@ setup(
     version='1.0',
     description='Repository for Fall 2020 Capstone',
     author='Brian Crutchley, Grayson Grzadzielewski',
-    author_email='bcrutc01@rams.shepherd.edu, ggrzado1@rams.shepherd.edu',
+    author_email='bcrutc01@rams.shepherd.edu, ggrzad01@rams.shepherd.edu',
     url='https://github.com/GraysonGrzadzielewski/Capstone',
     long_description=open('README.md','r').read(),
     install_requires=[
