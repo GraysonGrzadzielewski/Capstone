@@ -49,6 +49,8 @@ While this repo does not distribute the ROMs required for running, they are avai
 
 2. cd into the archive's directory
 
+  * The ROM files have a *.zip* extension. DO NOT UNZIP THE ROM files INSIDE the archive!
+
 3. Do the following command. Do not exclude the '.'
 
   ```

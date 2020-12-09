@@ -37,11 +37,13 @@ NOTE: Below it says that the ROMs to run are not included in the repository! The
 
 While this repo does not distribute the ROMs required for running, they are available here: https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed. To install the ROMs to the retro/data/stable directory
 
-    Download the archive and unzip
+    1. Download the archive and unzip
 
-    cd into the archive’s directory
+    2. cd into the archive’s directory
 
-    Do the following command. Do not exclude the ‘.’
+      * The ROM files have a .zip extension. DO NOT UNZIP THE ROM files INSIDE the archive!
+
+    3. Do the following command. Do not exclude the "."
 
 $ python -m retro.import .
 
