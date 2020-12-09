@@ -2,7 +2,7 @@
 
 Brian Crutchley                 bcrutc01@rams.shepherd.edu
 
-Grayson Grzadzielewski          ggrzado1@rams.shepherd.edu
+Grayson Grzadzielewski          ggrzad01@rams.shepherd.edu
 
 ## Installation
 
