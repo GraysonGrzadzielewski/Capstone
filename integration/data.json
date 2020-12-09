@@ -1,0 +1,1872 @@
+{
+  "info": {
+    "coins": {
+      "address": 1886,
+      "type": "|u1"
+    },
+    "e1_spawned": {
+      "address": 15,
+      "type": "|i1"
+    },
+    "e1_xpos_high": {
+      "address": 110,
+      "type": "|u1"
+    },
+    "e1_xpos_low": {
+      "address": 135,
+      "type": "|u1"
+    },
+    "e1_xvel": {
+      "address": 88,
+      "type": "|i1"
+    },
+    "e1_ypos_high": {
+      "address": 182,
+      "type": "|u1"
+    },
+    "e1_ypos_low": {
+      "address": 207,
+      "type": "|u1"
+    },
+    "e1_yvel": {
+      "address": 160,
+      "type": "|u1"
+    },
+    "e2_spawned": {
+      "address": 16,
+      "type": "|i1"
+    },
+    "e2_xpos_high": {
+      "address": 111,
+      "type": "|u1"
+    },
+    "e2_xpos_low": {
+      "address": 136,
+      "type": "|u1"
+    },
+    "e2_xvel": {
+      "address": 89,
+      "type": "|i1"
+    },
+    "e2_ypos_high": {
+      "address": 183,
+      "type": "|u1"
+    },
+    "e2_ypos_low": {
+      "address": 208,
+      "type": "|u1"
+    },
+    "e2_yvel": {
+      "address": 161,
+      "type": "|u1"
+    },
+    "e3_spawned": {
+      "address": 17,
+      "type": "|i1"
+    },
+    "e3_xpos_high": {
+      "address": 112,
+      "type": "|u1"
+    },
+    "e3_xpos_low": {
+      "address": 137,
+      "type": "|u1"
+    },
+    "e3_xvel": {
+      "address": 90,
+      "type": "|i1"
+    },
+    "e3_ypos_high": {
+      "address": 184,
+      "type": "|u1"
+    },
+    "e3_ypos_low": {
+      "address": 209,
+      "type": "|u1"
+    },
+    "e3_yvel": {
+      "address": 162,
+      "type": "|u1"
+    },
+    "e4_spawned": {
+      "address": 18,
+      "type": "|i1"
+    },
+    "e4_xpos_high": {
+      "address": 113,
+      "type": "|u1"
+    },
+    "e4_xpos_low": {
+      "address": 138,
+      "type": "|u1"
+    },
+    "e4_xvel": {
+      "address": 91,
+      "type": "|i1"
+    },
+    "e4_ypos_high": {
+      "address": 185,
+      "type": "|u1"
+    },
+    "e4_ypos_low": {
+      "address": 210,
+      "type": "|u1"
+    },
+    "e4_yvel": {
+      "address": 163,
+      "type": "|u1"
+    },
+    "e5_spawned": {
+      "address": 19,
+      "type": "|i1"
+    },
+    "e5_xpos_high": {
+      "address": 114,
+      "type": "|u1"
+    },
+    "e5_xpos_low": {
+      "address": 139,
+      "type": "|u1"
+    },
+    "e5_xvel": {
+      "address": 92,
+      "type": "|i1"
+    },
+    "e5_ypos_high": {
+      "address": 186,
+      "type": "|u1"
+    },
+    "e5_ypos_low": {
+      "address": 211,
+      "type": "|u1"
+    },
+    "e5_yvel": {
+      "address": 164,
+      "type": "|u1"
+    },
+    "levelHi": {
+      "address": 1887,
+      "type": "|i1"
+    },
+    "levelLo": {
+      "address": 1884,
+      "type": "|i1"
+    },
+    "lives": {
+      "address": 1882,
+      "type": "|i1"
+    },
+    "map_tile_1": {
+      "address": 1280,
+      "type": "|u1"
+    },
+    "map_tile_10": {
+      "address": 1289,
+      "type": "|u1"
+    },
+    "map_tile_100": {
+      "address": 1379,
+      "type": "|u1"
+    },
+    "map_tile_101": {
+      "address": 1380,
+      "type": "|u1"
+    },
+    "map_tile_102": {
+      "address": 1381,
+      "type": "|u1"
+    },
+    "map_tile_103": {
+      "address": 1382,
+      "type": "|u1"
+    },
+    "map_tile_104": {
+      "address": 1383,
+      "type": "|u1"
+    },
+    "map_tile_105": {
+      "address": 1384,
+      "type": "|u1"
+    },
+    "map_tile_106": {
+      "address": 1385,
+      "type": "|u1"
+    },
+    "map_tile_107": {
+      "address": 1386,
+      "type": "|u1"
+    },
+    "map_tile_108": {
+      "address": 1387,
+      "type": "|u1"
+    },
+    "map_tile_109": {
+      "address": 1388,
+      "type": "|u1"
+    },
+    "map_tile_11": {
+      "address": 1290,
+      "type": "|u1"
+    },
+    "map_tile_110": {
+      "address": 1389,
+      "type": "|u1"
+    },
+    "map_tile_111": {
+      "address": 1390,
+      "type": "|u1"
+    },
+    "map_tile_112": {
+      "address": 1391,
+      "type": "|u1"
+    },
+    "map_tile_113": {
+      "address": 1392,
+      "type": "|u1"
+    },
+    "map_tile_114": {
+      "address": 1393,
+      "type": "|u1"
+    },
+    "map_tile_115": {
+      "address": 1394,
+      "type": "|u1"
+    },
+    "map_tile_116": {
+      "address": 1395,
+      "type": "|u1"
+    },
+    "map_tile_117": {
+      "address": 1396,
+      "type": "|u1"
+    },
+    "map_tile_118": {
+      "address": 1397,
+      "type": "|u1"
+    },
+    "map_tile_119": {
+      "address": 1398,
+      "type": "|u1"
+    },
+    "map_tile_12": {
+      "address": 1291,
+      "type": "|u1"
+    },
+    "map_tile_120": {
+      "address": 1399,
+      "type": "|u1"
+    },
+    "map_tile_121": {
+      "address": 1400,
+      "type": "|u1"
+    },
+    "map_tile_122": {
+      "address": 1401,
+      "type": "|u1"
+    },
+    "map_tile_123": {
+      "address": 1402,
+      "type": "|u1"
+    },
+    "map_tile_124": {
+      "address": 1403,
+      "type": "|u1"
+    },
+    "map_tile_125": {
+      "address": 1404,
+      "type": "|u1"
+    },
+    "map_tile_126": {
+      "address": 1405,
+      "type": "|u1"
+    },
+    "map_tile_127": {
+      "address": 1406,
+      "type": "|u1"
+    },
+    "map_tile_128": {
+      "address": 1407,
+      "type": "|u1"
+    },
+    "map_tile_129": {
+      "address": 1408,
+      "type": "|u1"
+    },
+    "map_tile_13": {
+      "address": 1292,
+      "type": "|u1"
+    },
+    "map_tile_130": {
+      "address": 1409,
+      "type": "|u1"
+    },
+    "map_tile_131": {
+      "address": 1410,
+      "type": "|u1"
+    },
+    "map_tile_132": {
+      "address": 1411,
+      "type": "|u1"
+    },
+    "map_tile_133": {
+      "address": 1412,
+      "type": "|u1"
+    },
+    "map_tile_134": {
+      "address": 1413,
+      "type": "|u1"
+    },
+    "map_tile_135": {
+      "address": 1414,
+      "type": "|u1"
+    },
+    "map_tile_136": {
+      "address": 1415,
+      "type": "|u1"
+    },
+    "map_tile_137": {
+      "address": 1416,
+      "type": "|u1"
+    },
+    "map_tile_138": {
+      "address": 1417,
+      "type": "|u1"
+    },
+    "map_tile_139": {
+      "address": 1418,
+      "type": "|u1"
+    },
+    "map_tile_14": {
+      "address": 1293,
+      "type": "|u1"
+    },
+    "map_tile_140": {
+      "address": 1419,
+      "type": "|u1"
+    },
+    "map_tile_141": {
+      "address": 1420,
+      "type": "|u1"
+    },
+    "map_tile_142": {
+      "address": 1421,
+      "type": "|u1"
+    },
+    "map_tile_143": {
+      "address": 1422,
+      "type": "|u1"
+    },
+    "map_tile_144": {
+      "address": 1423,
+      "type": "|u1"
+    },
+    "map_tile_145": {
+      "address": 1424,
+      "type": "|u1"
+    },
+    "map_tile_146": {
+      "address": 1425,
+      "type": "|u1"
+    },
+    "map_tile_147": {
+      "address": 1426,
+      "type": "|u1"
+    },
+    "map_tile_148": {
+      "address": 1427,
+      "type": "|u1"
+    },
+    "map_tile_149": {
+      "address": 1428,
+      "type": "|u1"
+    },
+    "map_tile_15": {
+      "address": 1294,
+      "type": "|u1"
+    },
+    "map_tile_150": {
+      "address": 1429,
+      "type": "|u1"
+    },
+    "map_tile_151": {
+      "address": 1430,
+      "type": "|u1"
+    },
+    "map_tile_152": {
+      "address": 1431,
+      "type": "|u1"
+    },
+    "map_tile_153": {
+      "address": 1432,
+      "type": "|u1"
+    },
+    "map_tile_154": {
+      "address": 1433,
+      "type": "|u1"
+    },
+    "map_tile_155": {
+      "address": 1434,
+      "type": "|u1"
+    },
+    "map_tile_156": {
+      "address": 1435,
+      "type": "|u1"
+    },
+    "map_tile_157": {
+      "address": 1436,
+      "type": "|u1"
+    },
+    "map_tile_158": {
+      "address": 1437,
+      "type": "|u1"
+    },
+    "map_tile_159": {
+      "address": 1438,
+      "type": "|u1"
+    },
+    "map_tile_16": {
+      "address": 1295,
+      "type": "|u1"
+    },
+    "map_tile_160": {
+      "address": 1439,
+      "type": "|u1"
+    },
+    "map_tile_161": {
+      "address": 1440,
+      "type": "|u1"
+    },
+    "map_tile_162": {
+      "address": 1441,
+      "type": "|u1"
+    },
+    "map_tile_163": {
+      "address": 1442,
+      "type": "|u1"
+    },
+    "map_tile_164": {
+      "address": 1443,
+      "type": "|u1"
+    },
+    "map_tile_165": {
+      "address": 1444,
+      "type": "|u1"
+    },
+    "map_tile_166": {
+      "address": 1445,
+      "type": "|u1"
+    },
+    "map_tile_167": {
+      "address": 1446,
+      "type": "|u1"
+    },
+    "map_tile_168": {
+      "address": 1447,
+      "type": "|u1"
+    },
+    "map_tile_169": {
+      "address": 1448,
+      "type": "|u1"
+    },
+    "map_tile_17": {
+      "address": 1296,
+      "type": "|u1"
+    },
+    "map_tile_170": {
+      "address": 1449,
+      "type": "|u1"
+    },
+    "map_tile_171": {
+      "address": 1450,
+      "type": "|u1"
+    },
+    "map_tile_172": {
+      "address": 1451,
+      "type": "|u1"
+    },
+    "map_tile_173": {
+      "address": 1452,
+      "type": "|u1"
+    },
+    "map_tile_174": {
+      "address": 1453,
+      "type": "|u1"
+    },
+    "map_tile_175": {
+      "address": 1454,
+      "type": "|u1"
+    },
+    "map_tile_176": {
+      "address": 1455,
+      "type": "|u1"
+    },
+    "map_tile_177": {
+      "address": 1456,
+      "type": "|u1"
+    },
+    "map_tile_178": {
+      "address": 1457,
+      "type": "|u1"
+    },
+    "map_tile_179": {
+      "address": 1458,
+      "type": "|u1"
+    },
+    "map_tile_18": {
+      "address": 1297,
+      "type": "|u1"
+    },
+    "map_tile_180": {
+      "address": 1459,
+      "type": "|u1"
+    },
+    "map_tile_181": {
+      "address": 1460,
+      "type": "|u1"
+    },
+    "map_tile_182": {
+      "address": 1461,
+      "type": "|u1"
+    },
+    "map_tile_183": {
+      "address": 1462,
+      "type": "|u1"
+    },
+    "map_tile_184": {
+      "address": 1463,
+      "type": "|u1"
+    },
+    "map_tile_185": {
+      "address": 1464,
+      "type": "|u1"
+    },
+    "map_tile_186": {
+      "address": 1465,
+      "type": "|u1"
+    },
+    "map_tile_187": {
+      "address": 1466,
+      "type": "|u1"
+    },
+    "map_tile_188": {
+      "address": 1467,
+      "type": "|u1"
+    },
+    "map_tile_189": {
+      "address": 1468,
+      "type": "|u1"
+    },
+    "map_tile_19": {
+      "address": 1298,
+      "type": "|u1"
+    },
+    "map_tile_190": {
+      "address": 1469,
+      "type": "|u1"
+    },
+    "map_tile_191": {
+      "address": 1470,
+      "type": "|u1"
+    },
+    "map_tile_192": {
+      "address": 1471,
+      "type": "|u1"
+    },
+    "map_tile_193": {
+      "address": 1472,
+      "type": "|u1"
+    },
+    "map_tile_194": {
+      "address": 1473,
+      "type": "|u1"
+    },
+    "map_tile_195": {
+      "address": 1474,
+      "type": "|u1"
+    },
+    "map_tile_196": {
+      "address": 1475,
+      "type": "|u1"
+    },
+    "map_tile_197": {
+      "address": 1476,
+      "type": "|u1"
+    },
+    "map_tile_198": {
+      "address": 1477,
+      "type": "|u1"
+    },
+    "map_tile_199": {
+      "address": 1478,
+      "type": "|u1"
+    },
+    "map_tile_2": {
+      "address": 1281,
+      "type": "|u1"
+    },
+    "map_tile_20": {
+      "address": 1299,
+      "type": "|u1"
+    },
+    "map_tile_200": {
+      "address": 1479,
+      "type": "|u1"
+    },
+    "map_tile_201": {
+      "address": 1480,
+      "type": "|u1"
+    },
+    "map_tile_202": {
+      "address": 1481,
+      "type": "|u1"
+    },
+    "map_tile_203": {
+      "address": 1482,
+      "type": "|u1"
+    },
+    "map_tile_204": {
+      "address": 1483,
+      "type": "|u1"
+    },
+    "map_tile_205": {
+      "address": 1484,
+      "type": "|u1"
+    },
+    "map_tile_206": {
+      "address": 1485,
+      "type": "|u1"
+    },
+    "map_tile_207": {
+      "address": 1486,
+      "type": "|u1"
+    },
+    "map_tile_208": {
+      "address": 1487,
+      "type": "|u1"
+    },
+    "map_tile_209": {
+      "address": 1488,
+      "type": "|u1"
+    },
+    "map_tile_21": {
+      "address": 1300,
+      "type": "|u1"
+    },
+    "map_tile_210": {
+      "address": 1489,
+      "type": "|u1"
+    },
+    "map_tile_211": {
+      "address": 1490,
+      "type": "|u1"
+    },
+    "map_tile_212": {
+      "address": 1491,
+      "type": "|u1"
+    },
+    "map_tile_213": {
+      "address": 1492,
+      "type": "|u1"
+    },
+    "map_tile_214": {
+      "address": 1493,
+      "type": "|u1"
+    },
+    "map_tile_215": {
+      "address": 1494,
+      "type": "|u1"
+    },
+    "map_tile_216": {
+      "address": 1495,
+      "type": "|u1"
+    },
+    "map_tile_217": {
+      "address": 1496,
+      "type": "|u1"
+    },
+    "map_tile_218": {
+      "address": 1497,
+      "type": "|u1"
+    },
+    "map_tile_219": {
+      "address": 1498,
+      "type": "|u1"
+    },
+    "map_tile_22": {
+      "address": 1301,
+      "type": "|u1"
+    },
+    "map_tile_220": {
+      "address": 1499,
+      "type": "|u1"
+    },
+    "map_tile_221": {
+      "address": 1500,
+      "type": "|u1"
+    },
+    "map_tile_222": {
+      "address": 1501,
+      "type": "|u1"
+    },
+    "map_tile_223": {
+      "address": 1502,
+      "type": "|u1"
+    },
+    "map_tile_224": {
+      "address": 1503,
+      "type": "|u1"
+    },
+    "map_tile_225": {
+      "address": 1504,
+      "type": "|u1"
+    },
+    "map_tile_226": {
+      "address": 1505,
+      "type": "|u1"
+    },
+    "map_tile_227": {
+      "address": 1506,
+      "type": "|u1"
+    },
+    "map_tile_228": {
+      "address": 1507,
+      "type": "|u1"
+    },
+    "map_tile_229": {
+      "address": 1508,
+      "type": "|u1"
+    },
+    "map_tile_23": {
+      "address": 1302,
+      "type": "|u1"
+    },
+    "map_tile_230": {
+      "address": 1509,
+      "type": "|u1"
+    },
+    "map_tile_231": {
+      "address": 1510,
+      "type": "|u1"
+    },
+    "map_tile_232": {
+      "address": 1511,
+      "type": "|u1"
+    },
+    "map_tile_233": {
+      "address": 1512,
+      "type": "|u1"
+    },
+    "map_tile_234": {
+      "address": 1513,
+      "type": "|u1"
+    },
+    "map_tile_235": {
+      "address": 1514,
+      "type": "|u1"
+    },
+    "map_tile_236": {
+      "address": 1515,
+      "type": "|u1"
+    },
+    "map_tile_237": {
+      "address": 1516,
+      "type": "|u1"
+    },
+    "map_tile_238": {
+      "address": 1517,
+      "type": "|u1"
+    },
+    "map_tile_239": {
+      "address": 1518,
+      "type": "|u1"
+    },
+    "map_tile_24": {
+      "address": 1303,
+      "type": "|u1"
+    },
+    "map_tile_240": {
+      "address": 1519,
+      "type": "|u1"
+    },
+    "map_tile_241": {
+      "address": 1520,
+      "type": "|u1"
+    },
+    "map_tile_242": {
+      "address": 1521,
+      "type": "|u1"
+    },
+    "map_tile_243": {
+      "address": 1522,
+      "type": "|u1"
+    },
+    "map_tile_244": {
+      "address": 1523,
+      "type": "|u1"
+    },
+    "map_tile_245": {
+      "address": 1524,
+      "type": "|u1"
+    },
+    "map_tile_246": {
+      "address": 1525,
+      "type": "|u1"
+    },
+    "map_tile_247": {
+      "address": 1526,
+      "type": "|u1"
+    },
+    "map_tile_248": {
+      "address": 1527,
+      "type": "|u1"
+    },
+    "map_tile_249": {
+      "address": 1528,
+      "type": "|u1"
+    },
+    "map_tile_25": {
+      "address": 1304,
+      "type": "|u1"
+    },
+    "map_tile_250": {
+      "address": 1529,
+      "type": "|u1"
+    },
+    "map_tile_251": {
+      "address": 1530,
+      "type": "|u1"
+    },
+    "map_tile_252": {
+      "address": 1531,
+      "type": "|u1"
+    },
+    "map_tile_253": {
+      "address": 1532,
+      "type": "|u1"
+    },
+    "map_tile_254": {
+      "address": 1533,
+      "type": "|u1"
+    },
+    "map_tile_255": {
+      "address": 1534,
+      "type": "|u1"
+    },
+    "map_tile_256": {
+      "address": 1535,
+      "type": "|u1"
+    },
+    "map_tile_257": {
+      "address": 1536,
+      "type": "|u1"
+    },
+    "map_tile_258": {
+      "address": 1537,
+      "type": "|u1"
+    },
+    "map_tile_259": {
+      "address": 1538,
+      "type": "|u1"
+    },
+    "map_tile_26": {
+      "address": 1305,
+      "type": "|u1"
+    },
+    "map_tile_260": {
+      "address": 1539,
+      "type": "|u1"
+    },
+    "map_tile_261": {
+      "address": 1540,
+      "type": "|u1"
+    },
+    "map_tile_262": {
+      "address": 1541,
+      "type": "|u1"
+    },
+    "map_tile_263": {
+      "address": 1542,
+      "type": "|u1"
+    },
+    "map_tile_264": {
+      "address": 1543,
+      "type": "|u1"
+    },
+    "map_tile_265": {
+      "address": 1544,
+      "type": "|u1"
+    },
+    "map_tile_266": {
+      "address": 1545,
+      "type": "|u1"
+    },
+    "map_tile_267": {
+      "address": 1546,
+      "type": "|u1"
+    },
+    "map_tile_268": {
+      "address": 1547,
+      "type": "|u1"
+    },
+    "map_tile_269": {
+      "address": 1548,
+      "type": "|u1"
+    },
+    "map_tile_27": {
+      "address": 1306,
+      "type": "|u1"
+    },
+    "map_tile_270": {
+      "address": 1549,
+      "type": "|u1"
+    },
+    "map_tile_271": {
+      "address": 1550,
+      "type": "|u1"
+    },
+    "map_tile_272": {
+      "address": 1551,
+      "type": "|u1"
+    },
+    "map_tile_273": {
+      "address": 1552,
+      "type": "|u1"
+    },
+    "map_tile_274": {
+      "address": 1553,
+      "type": "|u1"
+    },
+    "map_tile_275": {
+      "address": 1554,
+      "type": "|u1"
+    },
+    "map_tile_276": {
+      "address": 1555,
+      "type": "|u1"
+    },
+    "map_tile_277": {
+      "address": 1556,
+      "type": "|u1"
+    },
+    "map_tile_278": {
+      "address": 1557,
+      "type": "|u1"
+    },
+    "map_tile_279": {
+      "address": 1558,
+      "type": "|u1"
+    },
+    "map_tile_28": {
+      "address": 1307,
+      "type": "|u1"
+    },
+    "map_tile_280": {
+      "address": 1559,
+      "type": "|u1"
+    },
+    "map_tile_281": {
+      "address": 1560,
+      "type": "|u1"
+    },
+    "map_tile_282": {
+      "address": 1561,
+      "type": "|u1"
+    },
+    "map_tile_283": {
+      "address": 1562,
+      "type": "|u1"
+    },
+    "map_tile_284": {
+      "address": 1563,
+      "type": "|u1"
+    },
+    "map_tile_285": {
+      "address": 1564,
+      "type": "|u1"
+    },
+    "map_tile_286": {
+      "address": 1565,
+      "type": "|u1"
+    },
+    "map_tile_287": {
+      "address": 1566,
+      "type": "|u1"
+    },
+    "map_tile_288": {
+      "address": 1567,
+      "type": "|u1"
+    },
+    "map_tile_289": {
+      "address": 1568,
+      "type": "|u1"
+    },
+    "map_tile_29": {
+      "address": 1308,
+      "type": "|u1"
+    },
+    "map_tile_290": {
+      "address": 1569,
+      "type": "|u1"
+    },
+    "map_tile_291": {
+      "address": 1570,
+      "type": "|u1"
+    },
+    "map_tile_292": {
+      "address": 1571,
+      "type": "|u1"
+    },
+    "map_tile_293": {
+      "address": 1572,
+      "type": "|u1"
+    },
+    "map_tile_294": {
+      "address": 1573,
+      "type": "|u1"
+    },
+    "map_tile_295": {
+      "address": 1574,
+      "type": "|u1"
+    },
+    "map_tile_296": {
+      "address": 1575,
+      "type": "|u1"
+    },
+    "map_tile_297": {
+      "address": 1576,
+      "type": "|u1"
+    },
+    "map_tile_298": {
+      "address": 1577,
+      "type": "|u1"
+    },
+    "map_tile_299": {
+      "address": 1578,
+      "type": "|u1"
+    },
+    "map_tile_3": {
+      "address": 1282,
+      "type": "|u1"
+    },
+    "map_tile_30": {
+      "address": 1309,
+      "type": "|u1"
+    },
+    "map_tile_300": {
+      "address": 1579,
+      "type": "|u1"
+    },
+    "map_tile_301": {
+      "address": 1580,
+      "type": "|u1"
+    },
+    "map_tile_302": {
+      "address": 1581,
+      "type": "|u1"
+    },
+    "map_tile_303": {
+      "address": 1582,
+      "type": "|u1"
+    },
+    "map_tile_304": {
+      "address": 1583,
+      "type": "|u1"
+    },
+    "map_tile_305": {
+      "address": 1584,
+      "type": "|u1"
+    },
+    "map_tile_306": {
+      "address": 1585,
+      "type": "|u1"
+    },
+    "map_tile_307": {
+      "address": 1586,
+      "type": "|u1"
+    },
+    "map_tile_308": {
+      "address": 1587,
+      "type": "|u1"
+    },
+    "map_tile_309": {
+      "address": 1588,
+      "type": "|u1"
+    },
+    "map_tile_31": {
+      "address": 1310,
+      "type": "|u1"
+    },
+    "map_tile_310": {
+      "address": 1589,
+      "type": "|u1"
+    },
+    "map_tile_311": {
+      "address": 1590,
+      "type": "|u1"
+    },
+    "map_tile_312": {
+      "address": 1591,
+      "type": "|u1"
+    },
+    "map_tile_313": {
+      "address": 1592,
+      "type": "|u1"
+    },
+    "map_tile_314": {
+      "address": 1593,
+      "type": "|u1"
+    },
+    "map_tile_315": {
+      "address": 1594,
+      "type": "|u1"
+    },
+    "map_tile_316": {
+      "address": 1595,
+      "type": "|u1"
+    },
+    "map_tile_317": {
+      "address": 1596,
+      "type": "|u1"
+    },
+    "map_tile_318": {
+      "address": 1597,
+      "type": "|u1"
+    },
+    "map_tile_319": {
+      "address": 1598,
+      "type": "|u1"
+    },
+    "map_tile_32": {
+      "address": 1311,
+      "type": "|u1"
+    },
+    "map_tile_320": {
+      "address": 1599,
+      "type": "|u1"
+    },
+    "map_tile_321": {
+      "address": 1600,
+      "type": "|u1"
+    },
+    "map_tile_322": {
+      "address": 1601,
+      "type": "|u1"
+    },
+    "map_tile_323": {
+      "address": 1602,
+      "type": "|u1"
+    },
+    "map_tile_324": {
+      "address": 1603,
+      "type": "|u1"
+    },
+    "map_tile_325": {
+      "address": 1604,
+      "type": "|u1"
+    },
+    "map_tile_326": {
+      "address": 1605,
+      "type": "|u1"
+    },
+    "map_tile_327": {
+      "address": 1606,
+      "type": "|u1"
+    },
+    "map_tile_328": {
+      "address": 1607,
+      "type": "|u1"
+    },
+    "map_tile_329": {
+      "address": 1608,
+      "type": "|u1"
+    },
+    "map_tile_33": {
+      "address": 1312,
+      "type": "|u1"
+    },
+    "map_tile_330": {
+      "address": 1609,
+      "type": "|u1"
+    },
+    "map_tile_331": {
+      "address": 1610,
+      "type": "|u1"
+    },
+    "map_tile_332": {
+      "address": 1611,
+      "type": "|u1"
+    },
+    "map_tile_333": {
+      "address": 1612,
+      "type": "|u1"
+    },
+    "map_tile_334": {
+      "address": 1613,
+      "type": "|u1"
+    },
+    "map_tile_335": {
+      "address": 1614,
+      "type": "|u1"
+    },
+    "map_tile_336": {
+      "address": 1615,
+      "type": "|u1"
+    },
+    "map_tile_337": {
+      "address": 1616,
+      "type": "|u1"
+    },
+    "map_tile_338": {
+      "address": 1617,
+      "type": "|u1"
+    },
+    "map_tile_339": {
+      "address": 1618,
+      "type": "|u1"
+    },
+    "map_tile_34": {
+      "address": 1313,
+      "type": "|u1"
+    },
+    "map_tile_340": {
+      "address": 1619,
+      "type": "|u1"
+    },
+    "map_tile_341": {
+      "address": 1620,
+      "type": "|u1"
+    },
+    "map_tile_342": {
+      "address": 1621,
+      "type": "|u1"
+    },
+    "map_tile_343": {
+      "address": 1622,
+      "type": "|u1"
+    },
+    "map_tile_344": {
+      "address": 1623,
+      "type": "|u1"
+    },
+    "map_tile_345": {
+      "address": 1624,
+      "type": "|u1"
+    },
+    "map_tile_346": {
+      "address": 1625,
+      "type": "|u1"
+    },
+    "map_tile_347": {
+      "address": 1626,
+      "type": "|u1"
+    },
+    "map_tile_348": {
+      "address": 1627,
+      "type": "|u1"
+    },
+    "map_tile_349": {
+      "address": 1628,
+      "type": "|u1"
+    },
+    "map_tile_35": {
+      "address": 1314,
+      "type": "|u1"
+    },
+    "map_tile_350": {
+      "address": 1629,
+      "type": "|u1"
+    },
+    "map_tile_351": {
+      "address": 1630,
+      "type": "|u1"
+    },
+    "map_tile_352": {
+      "address": 1631,
+      "type": "|u1"
+    },
+    "map_tile_353": {
+      "address": 1632,
+      "type": "|u1"
+    },
+    "map_tile_354": {
+      "address": 1633,
+      "type": "|u1"
+    },
+    "map_tile_355": {
+      "address": 1634,
+      "type": "|u1"
+    },
+    "map_tile_356": {
+      "address": 1635,
+      "type": "|u1"
+    },
+    "map_tile_357": {
+      "address": 1636,
+      "type": "|u1"
+    },
+    "map_tile_358": {
+      "address": 1637,
+      "type": "|u1"
+    },
+    "map_tile_359": {
+      "address": 1638,
+      "type": "|u1"
+    },
+    "map_tile_36": {
+      "address": 1315,
+      "type": "|u1"
+    },
+    "map_tile_360": {
+      "address": 1639,
+      "type": "|u1"
+    },
+    "map_tile_361": {
+      "address": 1640,
+      "type": "|u1"
+    },
+    "map_tile_362": {
+      "address": 1641,
+      "type": "|u1"
+    },
+    "map_tile_363": {
+      "address": 1642,
+      "type": "|u1"
+    },
+    "map_tile_364": {
+      "address": 1643,
+      "type": "|u1"
+    },
+    "map_tile_365": {
+      "address": 1644,
+      "type": "|u1"
+    },
+    "map_tile_366": {
+      "address": 1645,
+      "type": "|u1"
+    },
+    "map_tile_367": {
+      "address": 1646,
+      "type": "|u1"
+    },
+    "map_tile_368": {
+      "address": 1647,
+      "type": "|u1"
+    },
+    "map_tile_369": {
+      "address": 1648,
+      "type": "|u1"
+    },
+    "map_tile_37": {
+      "address": 1316,
+      "type": "|u1"
+    },
+    "map_tile_370": {
+      "address": 1649,
+      "type": "|u1"
+    },
+    "map_tile_371": {
+      "address": 1650,
+      "type": "|u1"
+    },
+    "map_tile_372": {
+      "address": 1651,
+      "type": "|u1"
+    },
+    "map_tile_373": {
+      "address": 1652,
+      "type": "|u1"
+    },
+    "map_tile_374": {
+      "address": 1653,
+      "type": "|u1"
+    },
+    "map_tile_375": {
+      "address": 1654,
+      "type": "|u1"
+    },
+    "map_tile_376": {
+      "address": 1655,
+      "type": "|u1"
+    },
+    "map_tile_377": {
+      "address": 1656,
+      "type": "|u1"
+    },
+    "map_tile_378": {
+      "address": 1657,
+      "type": "|u1"
+    },
+    "map_tile_379": {
+      "address": 1658,
+      "type": "|u1"
+    },
+    "map_tile_38": {
+      "address": 1317,
+      "type": "|u1"
+    },
+    "map_tile_380": {
+      "address": 1659,
+      "type": "|u1"
+    },
+    "map_tile_381": {
+      "address": 1660,
+      "type": "|u1"
+    },
+    "map_tile_382": {
+      "address": 1661,
+      "type": "|u1"
+    },
+    "map_tile_383": {
+      "address": 1662,
+      "type": "|u1"
+    },
+    "map_tile_384": {
+      "address": 1663,
+      "type": "|u1"
+    },
+    "map_tile_385": {
+      "address": 1664,
+      "type": "|u1"
+    },
+    "map_tile_386": {
+      "address": 1665,
+      "type": "|u1"
+    },
+    "map_tile_387": {
+      "address": 1666,
+      "type": "|u1"
+    },
+    "map_tile_388": {
+      "address": 1667,
+      "type": "|u1"
+    },
+    "map_tile_389": {
+      "address": 1668,
+      "type": "|u1"
+    },
+    "map_tile_39": {
+      "address": 1318,
+      "type": "|u1"
+    },
+    "map_tile_390": {
+      "address": 1669,
+      "type": "|u1"
+    },
+    "map_tile_391": {
+      "address": 1670,
+      "type": "|u1"
+    },
+    "map_tile_392": {
+      "address": 1671,
+      "type": "|u1"
+    },
+    "map_tile_393": {
+      "address": 1672,
+      "type": "|u1"
+    },
+    "map_tile_394": {
+      "address": 1673,
+      "type": "|u1"
+    },
+    "map_tile_395": {
+      "address": 1674,
+      "type": "|u1"
+    },
+    "map_tile_396": {
+      "address": 1675,
+      "type": "|u1"
+    },
+    "map_tile_397": {
+      "address": 1676,
+      "type": "|u1"
+    },
+    "map_tile_398": {
+      "address": 1677,
+      "type": "|u1"
+    },
+    "map_tile_399": {
+      "address": 1678,
+      "type": "|u1"
+    },
+    "map_tile_4": {
+      "address": 1283,
+      "type": "|u1"
+    },
+    "map_tile_40": {
+      "address": 1319,
+      "type": "|u1"
+    },
+    "map_tile_400": {
+      "address": 1679,
+      "type": "|u1"
+    },
+    "map_tile_401": {
+      "address": 1680,
+      "type": "|u1"
+    },
+    "map_tile_402": {
+      "address": 1681,
+      "type": "|u1"
+    },
+    "map_tile_403": {
+      "address": 1682,
+      "type": "|u1"
+    },
+    "map_tile_404": {
+      "address": 1683,
+      "type": "|u1"
+    },
+    "map_tile_405": {
+      "address": 1684,
+      "type": "|u1"
+    },
+    "map_tile_406": {
+      "address": 1685,
+      "type": "|u1"
+    },
+    "map_tile_407": {
+      "address": 1686,
+      "type": "|u1"
+    },
+    "map_tile_408": {
+      "address": 1687,
+      "type": "|u1"
+    },
+    "map_tile_409": {
+      "address": 1688,
+      "type": "|u1"
+    },
+    "map_tile_41": {
+      "address": 1320,
+      "type": "|u1"
+    },
+    "map_tile_410": {
+      "address": 1689,
+      "type": "|u1"
+    },
+    "map_tile_411": {
+      "address": 1690,
+      "type": "|u1"
+    },
+    "map_tile_412": {
+      "address": 1691,
+      "type": "|u1"
+    },
+    "map_tile_413": {
+      "address": 1692,
+      "type": "|u1"
+    },
+    "map_tile_414": {
+      "address": 1693,
+      "type": "|u1"
+    },
+    "map_tile_415": {
+      "address": 1694,
+      "type": "|u1"
+    },
+    "map_tile_416": {
+      "address": 1695,
+      "type": "|u1"
+    },
+    "map_tile_42": {
+      "address": 1321,
+      "type": "|u1"
+    },
+    "map_tile_43": {
+      "address": 1322,
+      "type": "|u1"
+    },
+    "map_tile_44": {
+      "address": 1323,
+      "type": "|u1"
+    },
+    "map_tile_45": {
+      "address": 1324,
+      "type": "|u1"
+    },
+    "map_tile_46": {
+      "address": 1325,
+      "type": "|u1"
+    },
+    "map_tile_47": {
+      "address": 1326,
+      "type": "|u1"
+    },
+    "map_tile_48": {
+      "address": 1327,
+      "type": "|u1"
+    },
+    "map_tile_49": {
+      "address": 1328,
+      "type": "|u1"
+    },
+    "map_tile_5": {
+      "address": 1284,
+      "type": "|u1"
+    },
+    "map_tile_50": {
+      "address": 1329,
+      "type": "|u1"
+    },
+    "map_tile_51": {
+      "address": 1330,
+      "type": "|u1"
+    },
+    "map_tile_52": {
+      "address": 1331,
+      "type": "|u1"
+    },
+    "map_tile_53": {
+      "address": 1332,
+      "type": "|u1"
+    },
+    "map_tile_54": {
+      "address": 1333,
+      "type": "|u1"
+    },
+    "map_tile_55": {
+      "address": 1334,
+      "type": "|u1"
+    },
+    "map_tile_56": {
+      "address": 1335,
+      "type": "|u1"
+    },
+    "map_tile_57": {
+      "address": 1336,
+      "type": "|u1"
+    },
+    "map_tile_58": {
+      "address": 1337,
+      "type": "|u1"
+    },
+    "map_tile_59": {
+      "address": 1338,
+      "type": "|u1"
+    },
+    "map_tile_6": {
+      "address": 1285,
+      "type": "|u1"
+    },
+    "map_tile_60": {
+      "address": 1339,
+      "type": "|u1"
+    },
+    "map_tile_61": {
+      "address": 1340,
+      "type": "|u1"
+    },
+    "map_tile_62": {
+      "address": 1341,
+      "type": "|u1"
+    },
+    "map_tile_63": {
+      "address": 1342,
+      "type": "|u1"
+    },
+    "map_tile_64": {
+      "address": 1343,
+      "type": "|u1"
+    },
+    "map_tile_65": {
+      "address": 1344,
+      "type": "|u1"
+    },
+    "map_tile_66": {
+      "address": 1345,
+      "type": "|u1"
+    },
+    "map_tile_67": {
+      "address": 1346,
+      "type": "|u1"
+    },
+    "map_tile_68": {
+      "address": 1347,
+      "type": "|u1"
+    },
+    "map_tile_69": {
+      "address": 1348,
+      "type": "|u1"
+    },
+    "map_tile_7": {
+      "address": 1286,
+      "type": "|u1"
+    },
+    "map_tile_70": {
+      "address": 1349,
+      "type": "|u1"
+    },
+    "map_tile_71": {
+      "address": 1350,
+      "type": "|u1"
+    },
+    "map_tile_72": {
+      "address": 1351,
+      "type": "|u1"
+    },
+    "map_tile_73": {
+      "address": 1352,
+      "type": "|u1"
+    },
+    "map_tile_74": {
+      "address": 1353,
+      "type": "|u1"
+    },
+    "map_tile_75": {
+      "address": 1354,
+      "type": "|u1"
+    },
+    "map_tile_76": {
+      "address": 1355,
+      "type": "|u1"
+    },
+    "map_tile_77": {
+      "address": 1356,
+      "type": "|u1"
+    },
+    "map_tile_78": {
+      "address": 1357,
+      "type": "|u1"
+    },
+    "map_tile_79": {
+      "address": 1358,
+      "type": "|u1"
+    },
+    "map_tile_8": {
+      "address": 1287,
+      "type": "|u1"
+    },
+    "map_tile_80": {
+      "address": 1359,
+      "type": "|u1"
+    },
+    "map_tile_81": {
+      "address": 1360,
+      "type": "|u1"
+    },
+    "map_tile_82": {
+      "address": 1361,
+      "type": "|u1"
+    },
+    "map_tile_83": {
+      "address": 1362,
+      "type": "|u1"
+    },
+    "map_tile_84": {
+      "address": 1363,
+      "type": "|u1"
+    },
+    "map_tile_85": {
+      "address": 1364,
+      "type": "|u1"
+    },
+    "map_tile_86": {
+      "address": 1365,
+      "type": "|u1"
+    },
+    "map_tile_87": {
+      "address": 1366,
+      "type": "|u1"
+    },
+    "map_tile_88": {
+      "address": 1367,
+      "type": "|u1"
+    },
+    "map_tile_89": {
+      "address": 1368,
+      "type": "|u1"
+    },
+    "map_tile_9": {
+      "address": 1288,
+      "type": "|u1"
+    },
+    "map_tile_90": {
+      "address": 1369,
+      "type": "|u1"
+    },
+    "map_tile_91": {
+      "address": 1370,
+      "type": "|u1"
+    },
+    "map_tile_92": {
+      "address": 1371,
+      "type": "|u1"
+    },
+    "map_tile_93": {
+      "address": 1372,
+      "type": "|u1"
+    },
+    "map_tile_94": {
+      "address": 1373,
+      "type": "|u1"
+    },
+    "map_tile_95": {
+      "address": 1374,
+      "type": "|u1"
+    },
+    "map_tile_96": {
+      "address": 1375,
+      "type": "|u1"
+    },
+    "map_tile_97": {
+      "address": 1376,
+      "type": "|u1"
+    },
+    "map_tile_98": {
+      "address": 1377,
+      "type": "|u1"
+    },
+    "map_tile_99": {
+      "address": 1378,
+      "type": "|u1"
+    },
+    "player_xpos_high": {
+      "address": 109,
+      "type": "|u1"
+    },
+    "player_xpos_low": {
+      "address": 134,
+      "type": "|u1"
+    },
+    "player_xvel": {
+      "address": 87,
+      "type": "|i1"
+    },
+    "player_ypos": {
+      "address": 952,
+      "type": "|s1"
+    },
+    "player_yvel": {
+      "address": 159,
+      "type": "|u1"
+    },
+    "score": {
+      "address": 2013,
+      "type": ">n6"
+    },
+    "screen_x": {
+      "address": 941,
+      "type": "|u1"
+    },
+    "screen_y": {
+      "address": 952,
+      "type": "|u1"
+    },
+    "scrolling": {
+      "address": 1912,
+      "type": "|i1"
+    },
+    "time": {
+      "address": 2040,
+      "type": ">n3"
+    },
+    "xscrollHi": {
+      "address": 1818,
+      "type": "|u1"
+    },
+    "xscrollLo": {
+      "address": 1820,
+      "type": "|u1"
+    }
+  }
+}

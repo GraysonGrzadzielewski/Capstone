@@ -29,3 +29,6 @@ setup(
         "neat-python>=0.92"
     ]
 )
+
+from integration import patch_integration as patcher
+patcher.main()

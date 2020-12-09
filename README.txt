@@ -1,8 +1,10 @@
 Using Neural Networks to Develop an AI Capable of Learning to Effectively Play Video Games
 
 Brian Crutchley bcrutc01@rams.shepherd.edu
+
 Grayson Grzadzielewski ggrzado1@rams.shepherd.edu
 Installation
+PyTorch
 
 Because PyTorch varies by OS, specific commands are required to download it for your system. If none of the commands below work, see
 
@@ -18,13 +20,30 @@ For Mac OS
 
 $ pip install torch torchvision torchaudio
 
-To install the requirements for this repo, either use the requirements.txt file by doing to download dependencies by doing
+Remaining Python Packages
+
+There are two options to install the remaining python dependencies required for this repo to function. The first is to use the following commands to install from requirements.txt and move the integration files into your retro/data/src/stable/SuperMarioBros-Nes directory.
 
 $ pip install -r requirements.txt
+$ python integration/patch_integration.py
 
-Or install with setup.py by cding into the repo’s directory and doing
+Or simply install with setup.py
 
-$ pip install .
+$ python setup.py install
+
+Acquiring Game ROMs
+
+NOTE: Below it says that the ROMs to run are not included in the repository! The correct ROM is included in the zip file we're turning in
+
+While this repo does not distribute the ROMs required for running, they are available here: https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed. To install the ROMs to the retro/data/stable directory
+
+    Download the archive and unzip
+
+    cd into the archive’s directory
+
+    Do the following command. Do not exclude the ‘.’
+
+$ python -m retro.import .
 
 Usage
 NEAT Implementation
